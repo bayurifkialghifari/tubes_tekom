@@ -1,0 +1,16 @@
+variable jumlah samadengan 10
+tampilkan "Jumlah: " + jumlah
+
+isiulang jumlah dengan 11
+tampilkan "Jumlah: " + jumlah
+
+variable isHidup samadengan positive vibes
+tampilkan "is hidup :" + isHidup
+
+untuk i sampai 10
+  jika i lebih gede 3
+    tampilkan "loop ke " + i
+  selainitu i itu 3
+    tampilkan "loop ke 3 : " + (i == 3)
+  dahan
+dahan

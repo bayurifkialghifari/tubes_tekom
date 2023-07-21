@@ -1,0 +1,20 @@
+{
+  "name": "id-language",
+  "version": "1.1.0",
+  "description": "id programming language",
+  "main": "id-interpreter.js",
+  "bin": {
+    "jaksel": "./id-interpreter.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "author": "Rio Chandra",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}

@@ -1,0 +1,13 @@
+variable umur samadengan 21
+tampilkan "Umur lu " + umur
+jika umur lebih gede 20
+  tampilkan "Elu tua"
+  variable umurgua samadengan umur + 10
+  tampilkan "Kalo gua umurnya " + umurgua
+  jika umurgua lebih gede 30
+    tampilkan "gua lebih tua"
+  dahan
+kalogak
+  tampilkan "dasar bocil"
+dahan
+tampilkan "Udahan ah"

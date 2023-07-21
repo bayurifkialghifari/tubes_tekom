@@ -1,0 +1,12 @@
+variable bilanganAkhir samadengan 10
+
+untuk i sampai bilanganAkhir
+    variable cekGenap samadengan i%2
+    jika i lebih gede 0
+        jika cekGenap itu 0
+            tampilkan "Bilangan "+i+" - Genap"
+        kalaogak
+            tampilkan "Bilangan "+i+" - Ganjil" 
+        dahan
+    dahan
+dahan

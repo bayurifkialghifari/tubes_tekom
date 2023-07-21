@@ -1,0 +1,49 @@
+fungsi my_story
+    variable umur samadengan 21
+    tampilkan "Umur lu " + umur
+dahan
+
+fungsi ngeloop berapaKali
+    untuk i sampai berapaKali
+      jika i lebih gede 3
+        tampilkan "loop ke " + i
+      selainitu i itu 3
+        tampilkan "loop ke 3 : " + (i == 3)
+      dahan
+    dahan
+dahan
+
+fungsi fungsi_param a
+    tampilkan "a: " + a
+dahan
+
+fungsi fungsiMultiParam a b c
+    tampilkan "argumen pertama: " + a
+    tampilkan "argumen kedua: " + b
+    tampilkan "argumen ketiga: " + c
+dahan
+
+panggil my_story
+tampilkan "\n"
+
+panggil ngeloop 20
+tampilkan "\n"
+
+variable nama samadengan "adi"
+
+panggil fungsi_param nama
+tampilkan "\n"
+
+panggil fungsi_param "Rayhan"
+tampilkan "\n"
+
+panggil fungsi_param 3
+tampilkan "\n"
+
+panggil fungsiMultiParam 3 4 5
+tampilkan "\n"
+
+variable nama2 samadengan "budi"
+
+panggil fungsiMultiParam 2 nama2 "and then Romeo says \"I love you\" to Juliet"
+tampilkan "\n"

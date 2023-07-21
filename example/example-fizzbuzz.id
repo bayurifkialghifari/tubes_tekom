@@ -1,0 +1,17 @@
+untuk nomor sampai 100
+  jika nomor gak 0
+    variable hasil samadengan ""
+    constant fizz itu nomor % 3
+    constant buzz itu nomor % 5
+    jika fizz itu 0
+      isiulang hasil dengan hasil + "fizz"
+    dahan
+    jika buzz itu 0
+      isiulang hasil dengan hasil + "buzz"
+    dahan
+    jika hasil itu ""
+      isiulang hasil dengan nomor
+    dahan
+    tampilkan hasil
+  dahan
+dahan

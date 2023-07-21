@@ -1,0 +1,6 @@
+async fungsi my_story
+    variable umur samadengan 21
+    tampilkan "Umur lu " + umur
+dahan
+
+panggil my_story true 2

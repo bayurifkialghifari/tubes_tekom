@@ -1,0 +1,17 @@
+variable bilangan1 samadengan 0
+variable bilangan2 samadengan 1
+variable bilangan3 samadengan 0
+
+variable output samadengan bilangan1 + ', ' + bilangan2
+
+untuk i sampai 10
+
+    isiulang bilangan3 dengan bilangan1 + bilangan2
+    isiulang output dengan output + ", " + bilangan3
+    isiulang bilangan1 dengan bilangan2
+    isiulang bilangan2 dengan bilangan3
+
+dahan
+
+tampilkan output
+

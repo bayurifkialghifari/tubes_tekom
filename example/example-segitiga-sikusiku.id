@@ -1,0 +1,9 @@
+untuk i sampai 5
+    variable bintang samadengan ""
+
+    untuk j sampai i
+        isiulang bintang dengan bintang+"*"
+    dahan
+
+    tampilkan bintang
+dahan
